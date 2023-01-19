@@ -5,3 +5,4 @@
 4.PCA
 5.TicTacToe
 6.Quartelateral
+7.Sudo
